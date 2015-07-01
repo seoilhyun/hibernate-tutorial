@@ -1,0 +1,11 @@
+.checkstyle
+.classpath
+.project
+
+.settings/
+target/
+
+build/
+
+.idle/
+.DS_Store
